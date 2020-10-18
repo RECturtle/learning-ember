@@ -95,4 +95,4 @@ npm-debug.log
 *.tgz
 *.tar.gz
 *.log
-
+environment.js
